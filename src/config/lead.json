@@ -1,7 +1,7 @@
 {
   "leadId": "PL-039",
   "businessName": "Afzal Medical Complex",
-  "nicheId": "all niches",
+  "nicheId": "clinic",
   "category": "Medical clinic",
   "phone": "",
   "whatsapp": "",
@@ -17,6 +17,6 @@
   "yearsExperience": 5,
   "workingHours": "Open today · Reply on WhatsApp fast",
   "taglineOverride": "",
-  "about": "Afzal Medical Complex provides trusted all niches services in Lahore.",
+  "about": "Afzal Medical Complex provides trusted clinic services in Lahore.",
   "urduSupport": true
 }
